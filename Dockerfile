@@ -1,4 +1,4 @@
-FROM pmbauer/elixir:1.2.1
+FROM pmbauer/elixir:1.2.2
 MAINTAINER Paul Bauer <paul@bauer.codes>
 
 RUN apk --update add erlang-crypto erlang-syntax-tools erlang-parsetools erlang-inets erlang-ssl erlang-public-key erlang-eunit \

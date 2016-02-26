@@ -3,7 +3,7 @@ Elixir on Alpine Linux + basic development tools
 
 Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
 
-Latest version: **1.2.1**  
+Latest version: **1.2.2**  
 Image size: **57.8 MB**  
 Parent: [pmbauer/elixir](https://github.com/pmbauer/alpine-elixir)
 
